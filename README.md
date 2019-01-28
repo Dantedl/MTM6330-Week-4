@@ -1,6 +1,7 @@
 # MTM6330-Week-3
-Chuhan's week 3 file
+Dante's week 3 file
 
-Chuhan Cao
+Daniel Lagos
+<was here :p>
 
 010
